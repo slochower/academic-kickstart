@@ -3,7 +3,9 @@ title = "Escaping Atom Types in Force Fields Using Direct Chemical Perception"
 date = 2018-10-11T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["admin"]
+authors = ["David L. Mobley", "Caitlin C. Bannan", "Andrea Rizzi", "Christopher I. Bayly", "John D. Chodera",
+"Victoria T. Lim", "Nathan M. Lim", "Kyle A. Beauchamp", "David R. Slochower", "Michael R. Shirts", "Michael K. Gilson",
+"Peter Eastman"]
 
 # Publication type.
 # Legend:
