@@ -6,6 +6,6 @@ publication_types = ["6"]
 abstract = ""
 featured = false
 publication = "*Handbook of lipid membranes, molecular and materials aspects*"
-tags = ["PPIs", "#nosource"]
+tags = ["PPIs"]
 +++
 
