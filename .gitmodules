@@ -1,7 +1,6 @@
 [submodule "themes/academic"]
 	path = themes/academic
 	url = https://github.com/gcushen/hugo-academic.git
-[submodule "public"]
-	path = public
-	url = https://github.com/slochower/slochower.github.io.git
-	branch = master
+[submodule "parse_bib"]
+  path = parse_bib
+  url = https://github.com/apetros/parse_bib.git
