@@ -23,8 +23,9 @@ email = "slochower@gmail.com"
 
 # List (academic) interests or hobbies
 interests = [
-  "Computational Chemistry",
-  "Molecular Motors",
+  "Computational chemistry",
+  "Free energy methods",
+  "Molecular motors",
   "Membrane biophysics"
 ]
 

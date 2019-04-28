@@ -1,6 +1,6 @@
 +++
 title = "Protein-ligand benchmarks"
-date = 2018-05-12T13:30:53-07:00
+date = 2019-03-12T13:30:53-07:00
 draft = false
 
 # Tags: can be used for filtering projects.
@@ -8,7 +8,7 @@ draft = false
 tags = []
 
 # Project summary to display on homepage.
-summary = "Harnessing protein-ligand binding affinity data in BindingDB to develop benchmarks to force field optimization and method validation."
+summary = "Harnessing protein-ligand binding affinity data in BindingDB to develop benchmarks for method validation."
 
 # Optional image to display on homepage.
 image_preview = ""

@@ -1,6 +1,6 @@
 +++
 title = "Improved binding free energy calculations"
-date = 2018-05-12T13:30:53-07:00
+date = 2019-03-12T13:30:53-07:00
 draft = false
 
 # Tags: can be used for filtering projects.
@@ -24,7 +24,7 @@ highlight = true
 # To use, add an image named `featured.jpg/png` to your project's folder. 
 [image]
   # Caption (optional)
-  caption = "Photo by Toa Heftiba on Unsplash"
+  caption = ""
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
