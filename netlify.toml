@@ -1,5 +1,5 @@
 [build]
-  command = "hugo -d"
+  command = "hugo -d public"
   publish = "public"
 
 [build.environment]
