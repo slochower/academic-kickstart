@@ -1,5 +1,5 @@
 +++
-title = "Overview of the SAMPL5 host-guest challenge: Are we doing better?, Overview of the SAMPL5 host–guest challenge: Are we doing better?"
+title = "Overview of the SAMPL5 host-guest challenge: Are we doing better?"
 date = "2017-01-01"
 authors = ["J. Yin","N. M. Henriksen","**D. R. Slochower**","M. R. Shirts","M. W. Chiu","D. L. Mobley","M. K. Gilson"]
 publication_types = ["2"]
